@@ -1,0 +1,1 @@
+In the Fibonacci sequence of numbers, each number is the sum of the previous two numbers. Fibonacci began, as modern mathematicians do but with 21, 21, 22, etc. He carried the calculation up to the thirteenth place (fourteenth in modern counting), that is 253, though another manuscript carries it to the next place: 21, 21, 22, 23, 25, 28, 33, 41, 54, 75, 109, 164, 253, 397. 

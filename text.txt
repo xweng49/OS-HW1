@@ -1,0 +1,1 @@
+In the Fibonacci sequence of numbers, each number is the sum of the previous two numbers. Fibonacci began, as modern mathematicians do but with 1, 1, 2, etc. He carried the calculation up to the thirteenth place (fourteenth in modern counting), that is 233, though another manuscript carries it to the next place: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377.
